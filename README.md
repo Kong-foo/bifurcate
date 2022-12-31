@@ -1,0 +1,2 @@
+# bifurcate
+displays bifurcation diagram
